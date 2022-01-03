@@ -1,5 +1,8 @@
 ![](images/mylogo.png)
 
+The OneTap is avialiable at Chrome Web Store.
+[Click Here to download!](https://chrome.google.com/webstore/detail/the-one-tap/hieblegcgoipinfbledfdfgadnokjdge/related?hl=en&authuser=0)
+
 The extension contains links of the most commonly used websites, a Note Taker, a Random Number-Fact Teller and an Alarm Reminder.
 
 Get easy access to all your frequently used websites on one tap.
